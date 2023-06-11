@@ -1,0 +1,6 @@
+.idea/**
+.vscode/**
+.vstags
+data/config.json
+echo-jabber-bot
+
